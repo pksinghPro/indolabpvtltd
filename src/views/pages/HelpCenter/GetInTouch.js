@@ -10,7 +10,9 @@ import {
   InputAdornment,
   Button,
 } from "@material-ui/core";
-import { FiUser, AiOutlineMail, GiSmartphone } from "react-icons/all";
+import { FiUser } from "react-icons/fi";
+import { AiOutlineMail } from "react-icons/ai";
+import { GiSmartphone } from "react-icons/gi";
 
 const useStyles = makeStyles((theme) => ({
   mainBox: {
